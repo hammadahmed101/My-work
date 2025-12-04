@@ -7,12 +7,9 @@ int main(){
 cout << " Hello World" << endl;
 cout << " Hello World1" << endl;
 cout << " Hello World2" << endl;
-cout <<
+cout << "Paksitan" << endl;
 
-cout << " Hello World" << endl;
-cout << " Hello World1" << endl;
-cout << " Hello World2" << endl;
-cout << "Hi" << endl;
+
 
 
     return 0;
